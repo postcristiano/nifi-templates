@@ -27,20 +27,20 @@
 
 ## Templates Index by Source Data
 - [csv file](templates/csv/)
-- json file
-- xml file
-- xls, xlsx, csv files
-- MySQL
-- SQL
-- Custom scripts
-- API RESTful
-- Elasticsearch
-- MongoDB
-- Kafka
-- MQTT
-- AWS
-- Slack
-- misc
+- [json file](templates/json/)
+- [xml file](templates/xml/)
+- [xls, xlsx, csv files](templates/xls_xlsx_csv/)
+- [MySQL](templates/mysql/)
+- [SQL](templates/sql/)
+- [Custom scripts](templates/custom-scripts/)
+- [API RESTful](templates/api/)
+- [Elasticsearch](templates/elastic/)
+- [MongoDB](templates/mongodb/)
+- [Kafka](templates/kafka/)
+- [MQTT](templates/mqtt/)
+- [AWS](templates/aws/)
+- [Slack](templates/slack/)
+- [misc](templates/misc/)
 
 ---
 
