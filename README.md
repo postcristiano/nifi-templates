@@ -26,7 +26,7 @@
 ---
 
 ## Templates Index by Source Data
-- [csv file](csv/)
+- [csv file](templates/csv/)
 - json file
 - xml file
 - xls, xlsx, csv files
